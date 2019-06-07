@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "hello" > /tmp/hello.txt
+echo "hello there" > /tmp/hello.txt
 exit 0 
